@@ -12,12 +12,12 @@ function Home() {
                     <div className="home-actions">
                         <h1 className="home-title">
                             Faça seu pedido <br />
-                        que levamos <br />
+                        que entregamos <br />
                         pra você!!!
                     </h1>
                         <h3 className="home-subtitle">
                             Escolha seu pedido e em poucos minutos <br />
-                        levaremos em sua mesa
+                        levaremos em sua casa
                     </h3>
                         <Link to="/orders" className="home-btn-order">
                             FAZER PEDIDO
